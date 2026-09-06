@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\csharp\\CSharpCore\\CSharpCore.csproj": {}
+    "/Users/latifyilmaz/Desktop/dev/csharp/CSharpCore/CSharpCore.csproj": {}
   },
   "projects": {
-    "C:\\dev\\csharp\\CSharpCore\\CSharpCore.csproj": {
+    "/Users/latifyilmaz/Desktop/dev/csharp/CSharpCore/CSharpCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\csharp\\CSharpCore\\CSharpCore.csproj",
+        "projectUniqueName": "/Users/latifyilmaz/Desktop/dev/csharp/CSharpCore/CSharpCore.csproj",
         "projectName": "CSharpCore",
-        "projectPath": "C:\\dev\\csharp\\CSharpCore\\CSharpCore.csproj",
-        "packagesPath": "C:\\Users\\latif\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\csharp\\CSharpCore\\obj\\",
+        "projectPath": "/Users/latifyilmaz/Desktop/dev/csharp/CSharpCore/CSharpCore.csproj",
+        "packagesPath": "/Users/latifyilmaz/.nuget/packages/",
+        "outputPath": "/Users/latifyilmaz/Desktop/dev/csharp/CSharpCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\latif\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/latifyilmaz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

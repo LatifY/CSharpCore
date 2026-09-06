@@ -80,7 +80,6 @@ namespace CSharpCore.MemoryModel
             Assert.That(p2.arr, Is.SameAs(p1.arr)); //reference
             Console.WriteLine("Equal?: " + p1.Equals(p2));
 
-
             Console.WriteLine("\n===================\n");
 
 
